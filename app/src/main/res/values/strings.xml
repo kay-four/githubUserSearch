@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github Search</string>
+
+    <string name="login">Enter user login</string>
+    <string name="user_login">User Login</string>
+    <string name="login_type">Login Type</string>
+    <string name="search_fragment_label">Search</string>
+    <string name="results_fragment_label">Results</string>
+    <string name="retry">Retry</string>
+    <string name="submit">Submit</string>
+
+</resources>
